@@ -695,7 +695,6 @@ section{
 }
 
 /*  Contact us page css codes*/
-
 .contact-container {
 	position: relative;
 	width: 100%;
@@ -761,7 +760,6 @@ form {
 	position: relative;
 	margin: 1rem 0;
 	padding: 5px;
-	/* background-color: white; */
 }
 .input-container.success textarea,
 .input-container.success input {
@@ -885,7 +883,7 @@ form {
 	top: calc(50% - 180px);
 	left: calc(50% - 180px);
 }
-
+/* Responsive*/
 @media (max-width: 850px) {
 	.form-big {
 		grid-template-columns: 1fr;
