@@ -534,6 +534,9 @@ section{
     padding: 20px;
     background-color: var(--green2-color);
 }
+.copyright .bx{
+    color: var(--bg-color);
+}
 /* Responsive */
 @media (max-width:1080px){
     header{
